@@ -12,7 +12,7 @@ min_version = "0.30"
   name = "taikii"
   homepage = "https://taikii.net/"
 
-baseurl = "https://https://elmatte.github.io/mek.github.io/"
+baseurl = "https://elmatte.github.io/mek.github.io/"
 title = "Whiteplain"
 # themesDir = "../../"
 theme = ["whiteplain"]
