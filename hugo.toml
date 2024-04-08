@@ -1,4 +1,4 @@
-baseURL = 'https://elmatte.github.io/mek.github.io/'
+baseURL = 'https://elmatte/mek.github.io/'
 languageCode = 'en-us'
 title = 'Ecklesiastikministern'
 theme = 'whiteplain'
